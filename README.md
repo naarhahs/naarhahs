@@ -10,12 +10,11 @@ Feel free to reach me if there is any enquiry! </br>
 .</br>
 
 # SHAHRAANESVARAN MURUKAYA
-### Software Engineer (Information Systems Development) </br>
+### Software Engineer (Information Systems Development)
+[Email](naarhahs@gmail.com) [Instagram](https://www.instagram.com/naarhahs/) [Twitter](https://twitter.com/naarhahs) [Linkedin](https://www.linkedin.com/in/naarhahs/)</br>
+
 #### Current Status : Undergoing Internship
-Email - naarhahs@gmail.com </br>
-Instagram - naarhahs </br>
-Twitter - naarhahs </br>
-Linkedin - https://www.linkedin.com/in/naarhahs/ </br>
+> *Last Updated : 9 Nov 2021*
 
 ## Objective
 
