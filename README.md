@@ -3,14 +3,16 @@
   Hi hello!!! </br>
   Welcome to my GitHub Profile. Have a look by scrolling down my resume! </br>
   Feel free to reach me if there is any enquiry! </br>
+  </br>
+  :electron:</br>
+  </br>
+  :electron:</br>
+  </br>
+  :electron:</br>
 </div>
-</br>
-</br>
-</br>
-</br>
-</br>
+
   
-# SHAHRAANESVARAN MURUKAYA
+<!-- # SHAHRAANESVARAN MURUKAYA -->
 ### Software Engineer (Information Systems Development)
 Contact Info : </br>
 :email: naarhahs@gmail.com </br>
@@ -90,6 +92,9 @@ E-Aedes System, a web-based developed system using Laravel Framework which is ab
   - Firebase
 - Data Visualization
   - Pandas Dataframe
+
+## Hobbies
+:video_game:  :badminton:  :chess_pawn:  :flying_disc:  :zzz:
 
 
 <!---
