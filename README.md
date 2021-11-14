@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>WELCOME NOTE</h1>
+  <h1>:balloon: WELCOME NOTE :balloon:</h1>
   Hi hello!!! </br>
   Welcome to my GitHub Profile. Have a look by scrolling down my resume! </br>
   Feel free to reach me if there is any enquiry! </br>
@@ -13,7 +13,7 @@
 # SHAHRAANESVARAN MURUKAYA
 ### Software Engineer (Information Systems Development)
 Contact Info : </br>
-Email : naarhahs@gmail.com </br>
+:email: naarhahs@gmail.com </br>
 </br>
 [Instagram](https://www.instagram.com/naarhahs/) | [Twitter](https://twitter.com/naarhahs) | [Linkedin](https://www.linkedin.com/in/naarhahs/)</br>
 
