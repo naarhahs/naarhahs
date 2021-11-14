@@ -96,6 +96,8 @@ E-Aedes System, a web-based developed system using Laravel Framework which is ab
 ## Hobbies
 :video_game:  :badminton:  :chess_pawn:  :flying_disc:  :zzz:
 
+## Additional Info
+
 
 <!---
 naarhahs/naarhahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
