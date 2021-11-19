@@ -29,10 +29,11 @@ A passionate Information Systems Development majoring Software Engineering, seek
 ## Education
 **Bachelor of Software Engineering (Information Systems Development)** | *National University of Malaysia* </br>
 2018 - 2022 </br>
-Current CGPA : 3.65 </br>
+Current CGPA : 3.72 </br>
 Dean's Award :
 - GPA 3.68 - 2/20192020 </br>
 - GPA 3.74 - 1/20202021 </br>
+- GPA 3.92 - 2/20202021 </br>
 
 **Matriculation** | *Selangor Matriculation College* </br>
 2017 - 2018 </br>
