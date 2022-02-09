@@ -19,7 +19,7 @@ Contact Info : </br>
 </br>
 [Instagram](https://www.instagram.com/naarhahs/) | [Twitter](https://twitter.com/naarhahs) | [Linkedin](https://www.linkedin.com/in/naarhahs/)</br>
 
-#### Current Status : Unemployed + Freelance
+#### Current Status : Unemployed + Freelancer
 > *Last Updated : 10th Feb 2022*
 
 ## Objective
