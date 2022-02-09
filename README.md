@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:balloon: WELCOME NOTE :balloon:</h1>
+  <!-- <h1>:balloon: WELCOME NOTE :balloon:</h1> -->
   Hi hello!!! </br>
   Welcome to my GitHub Profile. Have a look by scrolling down my resume! </br>
   Feel free to reach me if there is any enquiry! </br>
@@ -19,8 +19,8 @@ Contact Info : </br>
 </br>
 [Instagram](https://www.instagram.com/naarhahs/) | [Twitter](https://twitter.com/naarhahs) | [Linkedin](https://www.linkedin.com/in/naarhahs/)</br>
 
-#### Current Status : Undergoing Internship
-> *Last Updated : 11th Nov 2021*
+#### Current Status : Unemployed + Freelance
+> *Last Updated : 10th Feb 2022*
 
 ## Objective
 
@@ -49,6 +49,8 @@ Results : 3A, 4A-, 3B+, 2B (Pure Science + Accounting) </br>
 **Internship** | *Intel Microelectronics (M) Sdn. Bhd.* </br>
 Cloud & Engineering Solutions Department (iVE SRE CES) </br>
 Duration : 6 Months (Aug 2021 - Jan 2022) </br>
+Details : </br>
+Lorem
 </br>
 
 ## Final Year Project (FYP)
@@ -98,6 +100,7 @@ E-Aedes System, a web-based developed system using Laravel Framework which is ab
 :video_game:  :badminton:  :chess_pawn:  :flying_disc:  :zzz:
 
 ## Additional Info
+I need more skills!
 
 
 <!---
