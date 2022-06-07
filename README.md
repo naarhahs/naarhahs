@@ -20,7 +20,7 @@ Contact Info : </br>
 [Instagram](https://www.instagram.com/naarhahs/) | [Twitter](https://twitter.com/naarhahs) | [Linkedin](https://www.linkedin.com/in/naarhahs/)</br>
 
 #### Current Status : Unemployed + Freelancer
-> *Last Updated : 10th Feb 2022*
+> *Last Updated : 7th June 2022*
 
 ## Objective
 
@@ -34,6 +34,7 @@ Dean's Award :
 - GPA 3.68 - 2/20192020 </br>
 - GPA 3.74 - 1/20202021 </br>
 - GPA 3.92 - 2/20202021 </br>
+- GPA 4.00 - 1/20212022 </br>
 
 **Matriculation** | *Selangor Matriculation College* </br>
 2017 - 2018 </br>
@@ -49,8 +50,10 @@ Results : 3A, 4A-, 3B+, 2B (Pure Science + Accounting) </br>
 **Internship** | *Intel Microelectronics (M) Sdn. Bhd.* </br>
 Cloud & Engineering Solutions Department (iVE SRE CES) </br>
 Duration : 6 Months (Aug 2021 - Jan 2022) </br>
-Details : </br>
-Lorem
+Supervisor : Choon Wee Koay | choon.wee.koay@intel.com </br>
+</br>
+Primary project was PXE OS Deployment which is capturing image from the primary client and deploying the image onto the other client(s). FOG Project which is open-source software used as a medium in the server to perform capturing and deploying task(s). FOG Project software provides many functions apart from capturing and deploying task(s). The project's goal is to minimize the total time taken to install the customized linux-based OS on client(s). PXE OS Deployment project has been successfully done and deployed to the production. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary project was experimenting on Elastic Stack which is combination of ElasticSearch, Logstash and Kibana. The task was to understand the functions and run some test cases using provided sample data. The project's goal is to chunk down the data from the log files and send into ElasticSearch through Logstash. The experiment has been successfully done and submitted to supervisor.
 </br>
 
 ## Final Year Project (FYP)
@@ -92,9 +95,23 @@ E-Aedes System, a web-based developed system using Laravel Framework which is ab
   - phpMyAdmin
 - Database
   - MySQL
+  - SQL
   - Firebase
+- Cloud Computing
+  - Microsoft Azure Fundamentals
+  - Preboot eXecution Enviroment (PXE)
+    - FOG Project
 - Data Visualization
   - Pandas Dataframe
+  - Elastic Stack
+    - ElasticSearch
+    - Logstash (JDBC)
+    - Kibana
+- Application Programming Interface (API)
+  - Postman
+- Operating System (OS)
+  - Windows
+  - Linux
 
 ## Hobbies
 :video_game:  :badminton:  :chess_pawn:  :flying_disc:  :zzz:
