@@ -39,7 +39,6 @@ Dean's Award :
 **Matriculation** | *Selangor Matriculation College* </br>
 2017 - 2018 </br>
 CGPA : 3.13 </br>
-</br>
 
 **Malaysian Certificate of Education (SPM)** | *SMK Aman Jaya* </br>
 2012 - 2017 </br>
